@@ -1,0 +1,11 @@
+1. gitignore  add that folder or file you don't want to upload
+git config --global user.name Pallavi
+git config --global user.email "pallaviraj5992@gmail.com"
+2. git init command run it create .git folder that means project git respostary initilized
+3. git add .  all files and folder comes to statging area
+4. git commit -m "First commit" 
+5. git status  # Just see that wroking tree clean or not
+6. ssh-keygen -t rsa -b 4096 -C "pallaviraj5992@gmail.com"   # it will give key
+7. tail <path to id_rsa.pub> # add this key to your github account
+8. git remote add origin [ssh url.git]
+9.git push origin master
