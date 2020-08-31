@@ -1,3 +1,4 @@
+http://localhost/CurdOperation/public/blogs
 Important steps
 1. git init
  2.git add .
