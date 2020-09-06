@@ -1,3 +1,5 @@
+<!---url project-- http://localhost/CurdOperation/public/blogs -->
+
 -- phpMyAdmin SQL Dump
 -- version 4.8.5
 -- https://www.phpmyadmin.net/
